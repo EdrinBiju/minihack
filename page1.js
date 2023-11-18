@@ -29,7 +29,7 @@ function updateValue(e) {
     searchValue = e.target.value;
 }
 
-// When user clicks, it calls function getresults
+// When user clicks, it calls function getre12lts
 convert.addEventListener("click", getResults);
 
 // Function getresults
